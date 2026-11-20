@@ -4,7 +4,7 @@ Title: Diagnostics de fiabilité et de validité pour l'analyse
         factorielle confirmatoire
 Version: 0.2.3
 Authors@R: person("Daniel", "Coulombe", role = c("aut", "cre"),
-    email = "a-remplacer@example.org")
+    email = "dcoulombe60@gmail.com")
 Description: Rapport de diagnostic pour des modèles de mesure estimés avec
     'lavaan' : oméga congénérique, alpha, coefficient H, variance moyenne
     extraite, MSV et ASV, critère de Fornell-Larcker, rapport
